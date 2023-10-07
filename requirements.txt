@@ -1,0 +1,9 @@
+numpy
+pandas
+pynvml
+tqdm
+scikit-learn
+munch
+
+torch==2.0.0+cu118
+torchvision==0.15.1+cu118
